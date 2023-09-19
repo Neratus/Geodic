@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GeoDic</string>
+    <string name="welcome_note">Welcome! Click on the button below to search for a geographic object.</string>
+    <string name="Search_button">Find</string>
+    <string name="Locate_button">Location data</string>
+    <string name="not_found_result">Nothing was found for your request</string>
+    <string name="dialog_search">SEARCH</string>
+    <string name="countries_selection">Countries</string>
+    <string name="nations_selection">Nations</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+</resources>

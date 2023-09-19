@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "312084993615",
+    "firebase_url": "https://geodic-aedd4-default-rtdb.firebaseio.com",
+    "project_id": "geodic-aedd4",
+    "storage_bucket": "geodic-aedd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312084993615:android:41c19509e3bf45dc643c3a",
+        "android_client_info": {
+          "package_name": "com.example.geodic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312084993615-uc4egm7p0ehv5u3vkr1lbnjg7io1o0nq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.geodic",
+            "certificate_hash": "85facbe0c7df83fda1f98354674a35357a91c072"
+          }
+        },
+        {
+          "client_id": "312084993615-ldh8gue1aoen2e6ief1jua6ub45d9gk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBl_7c_QGvnhIpdDq011iOgOzOuIwBETE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312084993615-ldh8gue1aoen2e6ief1jua6ub45d9gk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

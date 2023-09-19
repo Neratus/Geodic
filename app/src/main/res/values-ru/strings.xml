@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GeoDic</string>
+    <string name="welcome_note">Добро пожаловать!Нажмите на кнопку внизу для поиска географического объекта.</string>
+    <string name="Search_button">Найти</string>
+    <string name="Locate_button">Данные о местоположении</string>
+    <string name="not_found_result">По вашему запросу ничего не найдено</string>
+    <string name="dialog_search">ПОИСК</string>
+    <string name="countries_selection">Страны</string>
+    <string name="nations_selection">Народы</string>
+</resources>
